@@ -3,11 +3,11 @@
 
 Atualmente estou estudando para me tornar um desenvolvedor FullStack.
 
--JavaScript
--PHP
--MySQL
--JQuery
--AJAX
--IONIC
+-JavaScript;
+-PHP;
+-MySQL;
+-JQuery;
+-AJAX;
+-IONIC;
 
 e-mail: Baierlle_@Outlook.com
