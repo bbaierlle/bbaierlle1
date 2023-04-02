@@ -3,7 +3,8 @@
 
 Atualmente estou estudando para me tornar um desenvolvedor FullStack.
 
-<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+-Apache
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
  
 -PHP  
 -MySQL  
