@@ -42,7 +42,8 @@ Atualmente estou estudando para me tornar um desenvolvedor FullStack.
                        
 <br>
        
-e-mail: Baierlle_@Outlook.com  
+e-mail: Baierlle_@Outlook.com
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbaierlle&show_icons=true&theme=radical)
 
